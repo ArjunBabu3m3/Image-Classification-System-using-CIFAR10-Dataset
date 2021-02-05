@@ -15,7 +15,7 @@
 * [Results and Conclusion](#results-and-conclusion)
 
 ### Introduction
-In this project, we am going to design various neural networks by implementing their forward and backward passes. Given CIFAR-10 object detection dataset, we are going to implement four different neural networks. Softmax is the simplest without any hidden layer, which is essentially equivalent to a vanilla multiclass classification. TwoLayerNN has only one fully-connected hidden layer, which is often called Multi Layer Perceptron (MLP). ConvNet consists of convolutional hidden layers that alternate convolution, ReLU, and max- pooling operations. MyModel will be your customized model that must achieve the best performance on CIFAR-10 among these four models.
+In this project, we are going to design various neural networks by implementing their forward and backward passes. Given CIFAR-10 object detection dataset, we are going to implement four different neural networks. Softmax is the simplest without any hidden layer, which is essentially equivalent to a vanilla multiclass classification. TwoLayerNN has only one fully-connected hidden layer, which is often called Multi Layer Perceptron (MLP). ConvNet consists of convolutional hidden layers that alternate convolution, ReLU, and max- pooling operations. MyModel will be your customized model that must achieve the best performance on CIFAR-10 among these four models.
 
 ### Problem Statement
 * Implement 4 different neural networks i.e. Softmax, TwoLayerNN, ConvNet and my own model(MyModel) on CIFAR10 after and obtain the best performance on your own customized      MyModel.
